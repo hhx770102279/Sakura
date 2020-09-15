@@ -1,18 +1,18 @@
 # site name
-prefixName: さくら荘その
-siteName: hojun
+prefixName: 
+siteName: 草莓🍓小饼干
 # favicon and site master avatar
 favicon: /images/favicon.ico
 avatar: /img/custom/avatar.jpg
-url: https://sakura.hojun.cn
-description: Live your life with passion! With some drive!
-cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
+url: http://47.93.150.16:4000/
+description: 好运，不会眷顾傻瓜。
+cdn: https://cdn.jsdelivr.net/gh/hhx770102279/cdn@1.0/
 pjax: 1
 # 1开启
 mathjax: 0
 
-notice: hexo-Sakura主题已经开源，目前正在开发中...
-lazyloadImg: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
+notice: 管好你的嘴，小鬼，否则你会发现自己正躺在基地等重生。
+lazyloadImg: https://cdn.jsdelivr.net/gh/hhx770102279/cdn@1.0/img/loader/orange.progress-bar-stripe-loader.svg
 
 menus:
   首页: { path: /, fa: fa-fort-awesome faa-shake }
@@ -47,14 +47,15 @@ homePageSortType: -1
 homeArticleShown: 10
 # 背景图片 更好的修改
 bg:
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(1).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(2).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(3).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(4).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(5).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(6).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(7).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(8).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hhx770102279/cdn@1.0/img/cover/(8).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hhx770102279/cdn@1.0/img/cover/(9).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hhx770102279/cdn@1.0/img/cover/(10).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hhx770102279/cdn@1.0/img/cover/(11).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hhx770102279/cdn@1.0/img/cover/(12).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hhx770102279/cdn@1.0/img/cover/(13).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hhx770102279/cdn@1.0/img/cover/(14).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hhx770102279/cdn@1.0/img/cover/(15).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hhx770102279/cdn@1.0/img/cover/(16).jpg.webp
 
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: filter-dot
